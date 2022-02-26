@@ -1,0 +1,10 @@
+tensorflow
+numpy
+Pillow
+mysqlclient
+matplotlib
+seaborn
+scikit-learn
+opencv-python
+keras
+tensorflow.keras
